@@ -1,12 +1,12 @@
 # 🚀 KYH.NET23 - Agila Arbetsmetoder 2024 🌟
 
-Welcome to **KYH.NET23**! This is the project hub for the **Agila Arbetsmetoder 2024** course. Here, we’ll be diving into Agile methodologies to deliver software projects like pros! ⚡️
+Welcome to **KYH.NET23**! This is the project hub for the course **Agila Arbetsmetoder 2024** at KYH. Here, we’ll be diving into Agile methodologies to deliver software projects like pros! ⚡️
 
-This hub is where collaboration, innovation, and continuous improvement come to life — all powered by Agile practices. Let's build something amazing, together! 💻👩‍💻👨‍💻
+This hub is where collaboration, innovation, and continuous improvement come to life — all powered by Agile practices. Let's build something amazing, together! 💻👩‍💻👨‍💻💪💪
 
 ## 🎯 Course Overview
 
-The **Agila Arbetsmetoder 2024** course is all about embracing **Agile** principles in real-world software development. This organization will serve as the home base for your projects, repositories, and everything else you need to get things done!
+The course **Agila Arbetsmetoder 2024** is all about embracing **Agile** principles in real-world software development. This organization will serve as the home base for your projects, repositories, and everything else you need to get things done!
 
 ### What is Agile? 🤔
 
@@ -18,7 +18,7 @@ Agile is a project management approach that helps teams deliver value faster �
 
 ## 📂 Project Repositories
 
-Here’s where the magic happens! Each repository in this organization will represent a project, exercise, or assignment related to **Agila Arbetsmetoder 2024**.
+Here’s where the magic happens! Each repository in this organization will represent a project, exercise, or assignment related to **Agila Arbetsmetoder**.
 
 ### Featured Repositories 🏗️
 - **[Project Name 1]**: Cool project description 🚀
@@ -35,3 +35,7 @@ We’ll be working with the best Agile tools and practices to make sure our proj
 - **Kanban**: Visualizing workflows and limiting work-in-progress 🔄
 - **GitHub Projects**: Managing issues, tasks, and boards 🗂️
 - **User Stories**: Writing user-centric features to keep the focus on delivering value 📜
+
+## Join us
+
+- **Discord**: [Join our discord server here](https://discord.gg/u5UpWJYEfb)
