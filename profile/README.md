@@ -2,7 +2,7 @@
 
 Welcome to **KYH.NET23**! This is the project hub for the course **Agila Arbetsmetoder 2024** at KYH. Here, we’ll be diving into Agile methodologies to deliver software projects like pros! ⚡️
 
-This hub is where collaboration, innovation, and continuous improvement come to life — all powered by Agile practices. Let's build something amazing, together! 💻👩‍💻👨‍💻💪💪
+This hub is where collaboration, innovation, and continuous improvement come to life — all powered by Agile practices and the bright minds of the 🌠 KYH .NET 23 class. Let's build something amazing together! 💻👩‍💻👨‍💻💪💪
 
 ## 🎯 Course Overview
 
